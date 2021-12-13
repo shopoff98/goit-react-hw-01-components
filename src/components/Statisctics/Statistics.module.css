@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  justify-content: center;
+}
+
+.list .listItem:not(:last-child) {
+  margin-right: 5px;
+}
+
+.section {
+  padding: 94px 0;
+  text-align: center;
+}
+.div {
+  border: solid 2px;
+}

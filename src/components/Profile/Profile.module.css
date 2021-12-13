@@ -1,0 +1,29 @@
+.avatar {
+  width: 200px;
+  height: 200px;
+}
+.div {
+  width: 400px;
+  height: 400px;
+  margin: 94px auto;
+  background-color: #c4bdb7;
+}
+
+.name {
+  font-size: large;
+  font-weight: 700;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5px;
+}
+
+.label {
+  display: block;
+}
+
+.image {
+  text-align: center;
+}
